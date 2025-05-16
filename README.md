@@ -7,4 +7,7 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ## Step 2: Create a hosted zone
 ![Hosted zones](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/Hosted%20zones.png)
 
+## Step 3: Create records
+
+
 ## References : https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
