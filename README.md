@@ -24,6 +24,9 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ### Static website hosting for subdomain
 ![Static website hosting for subdomain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/Static%20website%20hosting%20for%20subdomain.png)
 
+### Edit Static website hosting for subdomain
+![Edit Static website hosting for subdomain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/Edit%20static%20website%20hosting%20for%20subdomain.png)
+
 ## References 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/migrate-dns-domain-in-use.html
