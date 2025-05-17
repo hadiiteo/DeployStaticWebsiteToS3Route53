@@ -36,6 +36,12 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ### Edit Static website hosting for subdomain
 ![Edit Static website hosting for subdomain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/Edit%20static%20website%20hosting%20for%20subdomain.png)
 
+### configure logs folder
+![snapshot of logs folder belonging to logs.haditeoaws.xyz.png](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/snapshot%20of%20logs%20folder%20belonging%20to%20logs.haditeoaws.xyz.png)
+
+### enable server access logging for root domain
+![enable server access logging for root domain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/enabled%20server%20access%20logging%20for%20root%20domain.png)
+
 ## References 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/migrate-dns-domain-in-use.html
