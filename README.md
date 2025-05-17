@@ -1,16 +1,15 @@
 # DeployStaticWebsiteToS3Route53
-Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a custom website name
+Configuring a static website using a custom domain registered with Route 53
 
+## Making Route 53 the DNS service for a domain that's in use
 
-## Step 1: Making Route 53 the DNS service for a domain that's in use
-
-### Step 2: Create a hosted zone
+### Create a hosted zone
 ![Hosted zones](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/Hosted%20zones.png)
 
-### Step 3: Create records
+### Create records
 ![4 records in Hosted zones](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/4%20records%20in%20Hosted%20zones.png)
 
-## Namecheap  
+## Custom domain configuration at namecheap 
 
 ### bought a custom domain from namecheap
 ![custom domain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/bought%20a%20custom%20domain%20from%20namecheap.png)
@@ -19,7 +18,7 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ![Namecheap custom dns configuration](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/namecheap%20custom%20dns%20configuration.png)
 
 
-## Step 1: Create 3 S3 Buckets
+## S3 Buckets
 
 ### General purpose buckets
 ![3 General purpose buckets](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/General%20purpose%20buckets.png)
