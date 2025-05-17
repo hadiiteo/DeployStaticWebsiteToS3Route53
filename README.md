@@ -42,6 +42,28 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ### enable server access logging for root domain
 ![enable server access logging for root domain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/enabled%20server%20access%20logging%20for%20root%20domain.png)
 
+### upload index.html
+![index.html](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/upload%20index.html.png)
+
+### upload 404.html
+![404.html](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/upload%20index.html.png)
+
+### block public access for root domain
+![block public access](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/block%20public%20access%20for%20root%20domain.png)
+
+### bucket policy for root domain
+![bucket policy](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/bucket%20policy%20for%20root%20domain.png)
+
+### bucket website endpoint
+![bucket website endpoint](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/bucket%20website%20endpoint%20for%20root%20domain.png)
+
+### test domain endpoint for root domain
+![test domain endpoint for root domain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/test%20domain%20endpoint%20for%20root%20domain.png)
+
+
+
+
+
 ## References 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/migrate-dns-domain-in-use.html
