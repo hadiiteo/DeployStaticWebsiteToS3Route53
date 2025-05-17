@@ -72,6 +72,18 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ### test the website http://www.haditeoaws.xyz
 ![snapshot www.haditeoaws.xyz](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/test%20the%20website%20haditeoaws.xyz.png)
 
+## lesson learnt
+
+### always specify 404.html in the Error document
+![404.html](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/always%20specify%20404.html%20instead%20of%20leaving%20it%20to%20default%20Error.html.png)
+
+### check the cname route traffic
+cname route traffic has additional dot at the end, causing it not be able to route properly
+![cname route traffic has additional dot](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/make%20sure%20the%20cname%20route%20traffic%20to%20is%20correct.png)
+
+### use dnschecker to check the propagation
+![dnschecker](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/use%20dnschecker%20to%20check%20the%20propagation.png)
+
 ## References 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/migrate-dns-domain-in-use.html
