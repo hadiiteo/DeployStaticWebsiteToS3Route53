@@ -57,9 +57,6 @@ Sets up static website hosting on Amazon S3 and Route 53, enabling the use of a 
 ### bucket website endpoint
 ![bucket website endpoint](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/bucket%20website%20endpoint%20for%20root%20domain.png)
 
-### test domain endpoint for root domain
-![test domain endpoint for root domain](https://github.com/hadiiteo/DeployStaticWebsiteToS3Route53/blob/main/test%20domain%20endpoint%20for%20root%20domain.png)
-
 
 
 
